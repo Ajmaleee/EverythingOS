@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Nothing Glyph Ring (Arc segments) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 36,36 A 25,25 0 0,1 72,36" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 76,42 A 25,25 0 0,1 76,66" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 72,72 A 25,25 0 0,1 36,72" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 32,66 A 25,25 0 0,1 32,42" />
+
+    <!-- Center Glyph Diagonal Blade & Nothing N Dot Matrix -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,43 L52,43 L60,65 L56,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,43 L50,43 L50,65 L46,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,43 L62,43 L62,65 L58,65 Z" />
+
+    <!-- Signature Nothing Red Status Dot -->
+    <path
+        android:fillColor="#D71920"
+        android:pathData="M 68,36 m -3.5,0 a 3.5,3.5 0 1,0 7,0 a 3.5,3.5 0 1,0 -7,0" />
+</vector>

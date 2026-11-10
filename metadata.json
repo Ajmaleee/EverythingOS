@@ -1,0 +1,6 @@
+{
+  "name": "Nothing Launcher",
+  "description": "Nothing OS-inspired Android launcher featuring monochrome icon engine, Max Icons and Folders, interactive widgets, and gesture controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
